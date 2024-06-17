@@ -1,0 +1,250 @@
+ .u-section-1 {
+  background-image: linear-gradient(white, #f5d654);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 597px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 520px;
+  height: 477px;
+  margin: 60px auto 0 77px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 580px;
+  min-height: 357px;
+  background-image: none;
+  height: auto;
+  margin: -417px 0 60px 560px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 28px auto 0 8px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    width: 470px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 478px;
+    margin-left: 360px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 916px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 566px;
+    height: 490px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -50px;
+    margin-right: auto;
+    margin-left: 121px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 898px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 520px;
+    height: 467px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -46px;
+    margin-left: 0;
+    margin-bottom: 41px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 532px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 294px;
+    margin-top: 20px;
+    margin-right: -28px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 300px;
+    min-height: 274px;
+    margin-top: -76px;
+    margin-bottom: 20px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 26px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 40px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 10px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(#f5d654, white);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 534px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 16px 285px 0 52px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 21px 538px 0 16px;
+}
+
+.u-section-2 .u-image-1 {
+  --radius: 10px;
+  width: 486px;
+  height: 300px;
+  margin: -338px 16px 0 638px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 116px 365px -280px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 137px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 354px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 454px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 165px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 134px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 234px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-left: 54px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 210px;
+    margin-left: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 342px;
+}
+
+
+    
+        section {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 50vh;
+        }
+
+        #timer-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+
+        #timer {
+            font-size: 128px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        #button {
+            padding: 40px 80px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        #audio {
+            display: none;
+        }
+ 

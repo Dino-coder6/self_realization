@@ -1,0 +1,159 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 773px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 69px 82px 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 468px;
+  height: 468px;
+  margin: 44px 683px 0 -11px;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  margin: -468px 44px 30px 479px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 583px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 323px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 423px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 103px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: 253px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 51px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-top: 76px;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -372px;
+  }
+}
+#lowest-scores {
+    margin-top: 20px;
+}
+
+#lowest-scores p {
+    margin-bottom: 10px;
+}
+
+#lowest-scores span {
+    font-weight: bold;
+}
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.rating-field {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+#results {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#results p {
+    margin-bottom: 10px;
+}
+
+#results span {
+    font-weight: bold;
+}
+#lowest-criteria {
+    margin-top: 20px;
+}
+
+#lowest-criteria p {
+    margin-bottom: 10px;
+}
+
+#lowest-criteria span {
+    font-weight: bold;
+}
